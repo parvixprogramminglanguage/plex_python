@@ -7,7 +7,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/parvix/plex/actions)
 [![Documentation](https://img.shields.io/badge/docs-available-blue.svg)](https://docs.parvix.com/plex)
 
-Plex is a modern systems programming language designed specifically for cross-reality development, enabling developers to build applications that seamlessly bridge virtual worlds, blockchain networks, and traditional computing environments. Created by Parvix Technologies under the leadership of CEO and Founder Parvian Halliday, Plex combines memory safety, high performance, and expressive concurrency primitives to address the unique challenges of distributed systems and blockchain development.
+Plex is a modern systems programming language designed specifically for cross-reality development, enabling developers to build applications that seamlessly bridge virtual worlds, blockchain networks, and traditional computing environments. Created by Parvix Universal under the leadership of CEO and Founder Parvian Halliday, Plex combines memory safety, high performance, and expressive concurrency primitives to address the unique challenges of distributed systems and blockchain development.
 
 ## Core Features
 
@@ -293,3 +293,4 @@ The company's mission is to create a persistent interactive universe where techn
 ---
 
 *Copyright © 2025 Parvix Technologies. All rights reserved.*
+
